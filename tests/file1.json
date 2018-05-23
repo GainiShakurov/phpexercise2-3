@@ -1,0 +1,65 @@
+{
+  "q1": {
+    "body": "Вопрос1",
+    "answers": {
+      "answer1": {
+        "body": "ответ1",
+        "correct": true
+      },
+      "answer2": {
+        "body": "ответ2",
+        "correct": null
+      },
+      "answer3": {
+        "body": "ответ3",
+        "correct": true
+      },
+      "answer4": {
+        "body": "ответ4",
+        "correct": null
+      }
+    }
+  },
+  "q2": {
+    "body": "Вопрос2",
+    "answers": {
+      "answer1": {
+        "body": "ответ1",
+        "correct": null
+      },
+      "answer2": {
+        "body": "ответ2",
+        "correct": null
+      },
+      "answer3": {
+        "body": "ответ3",
+        "correct": true
+      },
+      "answer4": {
+        "body": "ответ4",
+        "correct": null
+      }
+    }
+  },
+  "q3": {
+    "body": "Вопрос3",
+    "answers": {
+      "answer1": {
+        "body": "ответ1",
+        "correct": true
+      },
+      "answer2": {
+        "body": "ответ2",
+        "correct": null
+      },
+      "answer3": {
+        "body": "ответ3",
+        "correct": null
+      },
+      "answer4": {
+        "body": "ответ4",
+        "correct": null
+      }
+    }
+  }
+}
